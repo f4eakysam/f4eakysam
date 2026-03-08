@@ -17,7 +17,7 @@
 - 🎬 **Interests:** VFX and 3D animations
 - 🍔 **Hobbies:** I love food!
 - 👻 **Talk to me about:** Horror movies
-- 👾 **Fun-fact:** I am def easily distracted by pixel arts
+- 👾 **Fun-fact:** I am def easily distracted by myself
 - 📚 **Learning:** Visual computing and image manipulation
 
 <br/>
