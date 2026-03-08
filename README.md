@@ -1,11 +1,18 @@
-### Welcome!
+### welcome!
 
-Hey there! I'm Sam, who enjoys technology, coding, and learning new things. I like experimenting with projects, exploring software, and improving my skills.
+Hey there! My name is Gnanavel Premnath, studying computer science. Besides coding, I do VFX and 3D animations!
 
-![Alt text](https://media.tenor.com/TyhWL7gJwPgAAAAi/peppo-dance.gif)
+### about me
 
-### About Me
+- i love food
+- always down to talk about horror movies
+- fun-fact: i am def easily distracted by pixel arts
+- i am currently learning visual computing and image manipulation
+- reach out to me: [premnathgnanavel150@gmail.com](mailto:premnathgnanavel150@gmail.com)
+- check out my [instagram](https://instagram.com) 📷
 
-- Learning New Tools
+<!-- IMAGE PLACEHOLDER 1: City/pixel art banner image goes here -->
+<!-- ![City Banner](your-city-banner-image.gif) -->
 
-<video src="5TMy.mp4" autoplay muted loop width="100%"></video>
+<!-- IMAGE PLACEHOLDER 2: Cat pixel art image goes here -->
+<!-- ![Pixel Cat](your-pixel-cat-image.gif) -->
