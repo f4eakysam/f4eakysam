@@ -11,8 +11,6 @@ Hey there! My name is Gnanavel Premnath, studying computer science. Besides codi
 - reach out to me: [premnathgnanavel150@gmail.com](mailto:premnathgnanavel150@gmail.com)
 - check out my [instagram](https://instagram.com) 📷
 
-<!-- IMAGE PLACEHOLDER 1: City/pixel art banner image goes here -->
-<!-- ![City Banner](your-city-banner-image.gif) -->
+![City Banner](https://media.tenor.com/yuC8gSkUsO8AAAAi/samcat-wormhole.gif)
+![Pixel Cat](your-pixel-cat-filename.gif)
 
-<!-- IMAGE PLACEHOLDER 2: Cat pixel art image goes here -->
-<!-- ![Pixel Cat](your-pixel-cat-image.gif) -->
