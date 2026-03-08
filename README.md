@@ -38,4 +38,4 @@
 
 ---
 
- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f4eakysam&theme=dark&background=000000)
+[![GitHub Streak](https://streak-stats.demolab.com/?f4eakysam=DenverCoder1)](https://git.io/streak-stats)
