@@ -1,4 +1,4 @@
-<h2 align="left">Heyyo, I'm Gnanavel Premnath!</h2>
+<h2 align="left">Heyyo, I'm sam!</h2>
 
 <p align="left">
   <a href="https://github.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/></a>
@@ -39,9 +39,7 @@
 ---
 
 ### Now Playing 🎧
-<a href="https://open.spotify.com/user/spotify">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</a>
+<img src="https://media.giphy.com/media/tqj4mGEy7dCbC/giphy.gif" alt="Music Visualizer" width="300">
 
 <br/>
 
