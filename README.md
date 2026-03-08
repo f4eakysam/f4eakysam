@@ -1,10 +1,10 @@
 <h2 align="left">Heyyo, I'm sam!</h2>
 
 <p align="left">
-  <a href="https://github.com/yourusername" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn"/></a>
-  <a href="https://instagram.com" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png" alt="Instagram"/></a>
-  <a href="mailto:premnathgnanavel150@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Email"/></a>
+  <a href="https://github.com/f4eakysam" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub"/></a>
+  <a href="https://linkedin.com/in/=" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/linkedin.png" alt="LinkedIn"/></a>
+  <a href="https://www.instagram.com/f4eakysam/" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/instagram-new.png" alt="Instagram"/></a>
+  <a href="mailto:arnav26722008@gmail.com" target="_blank"><img src="https://img.icons8.com/ios-glyphs/30/ffffff/new-post.png" alt="Email"/></a>
 </p>
 
 ---
