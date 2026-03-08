@@ -6,6 +6,6 @@
 </head>
 <body>
     <h3>welcome!</h3>
-    <p> i'm passionatd about learning programming, technology nd experimenting with code building small projects </p>
+    <p>Hey there! i'm sam, who enjoys technology, coding, and learning new things.I like to expermenting with projects, exploring software, and improving my skils. </p>
 </body>
 </html>
