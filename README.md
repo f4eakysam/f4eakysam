@@ -44,5 +44,5 @@
 <br/>
 
 <div align="right">
-  ![Streak](https://github-readme-streak-stats.herokuapp.com/?f4eakysam)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f4eakysam&theme=dark&background=000000)
 </div>   
