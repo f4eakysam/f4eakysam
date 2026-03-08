@@ -49,7 +49,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<br clear="both">
-<div align="center">
-  <img src="https://media.tenor.com/yuC8gSkUsO8AAAAi/samcat-wormhole.gif" alt="Pixel Cat" width="150">
-</div>
