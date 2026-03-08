@@ -2,9 +2,9 @@
 
 Hey there! My name is Gnanavel Premnath, studying computer science. Besides coding, I do VFX and 3D animations!
 
+<img align="right" src="https://media.tenor.com/yuC8gSkUsO8AAAAi/samcat-wormhole.gif" alt="City Banner" width="400">
 ### about me
 
-<img align="right" src="https://media.tenor.com/yuC8gSkUsO8AAAAi/samcat-wormhole.gif" alt="City Banner" width="400">
 
 - i love food
 - always down to talk about horror movies
