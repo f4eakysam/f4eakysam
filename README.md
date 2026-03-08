@@ -38,10 +38,4 @@
 
 ---
 
-### Now Playing 🎧
-<img src="https://media.giphy.com/media/tqj4mGEy7dCbC/giphy.gif" alt="Music Visualizer" width="300">
-
-<br/>
-
-
  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=f4eakysam&theme=dark&background=000000)
