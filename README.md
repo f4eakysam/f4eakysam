@@ -43,7 +43,5 @@
 
 <br/>
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourGithubf4eakysam&theme=dark&background=000000)
 
