@@ -38,4 +38,4 @@
 
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com/?f4eakysam=DenverCoder1&theme=dark)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?f4eakysam=cobalt&date_format=j M[Y])
