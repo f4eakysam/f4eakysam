@@ -38,4 +38,4 @@
 
 ---
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?f4eakysam=cobalt&date_format=j M[Y])
+[![GitHub Streak](https://streak-stats.demolab.com/?user=f4eakysam)](https://git.io/streak-stats)   
