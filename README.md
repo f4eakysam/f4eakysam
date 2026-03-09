@@ -14,11 +14,10 @@
 📕 **About Me**
 
 - 🎓 **Studying:** Computer Science
-- 🎬 **Interests:** VFX and 3D animations
+- 🎬 **Interests:** Not computable 
 - 🍔 **Hobbies:** I love food!
-- 👻 **Talk to me about:** Horror movies
+- 👻 **Talk to me about:** New released movie's
 - 👾 **Fun-fact:** I am def easily distracted by myself
-- 📚 **Learning:** Visual computing and image manipulation
 
 <br/>
 
