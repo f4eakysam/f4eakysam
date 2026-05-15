@@ -13,11 +13,11 @@
 
 📕 **About Me**
 
-- 🎓 **Studying:** Computer Science
-- 🎬 **Interests:** Not computable 
-- 🍔 **Hobbies:** I love food!
-- 👻 **Talk to me about:** New released movie's
-- 👾 **Fun-fact:** I am def easily distracted by myself
+- 🎓 **Studying:** CSS
+- 🎬 **Interests:**  IDk
+- 🍔 **Hobbies:** DOing shits allday
+- 👻 **Talk to me about:** NOthing
+- 👾 **Fun-fact:** My playlist knows more abt me than people do
 
 <br/>
 
